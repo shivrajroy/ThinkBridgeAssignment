@@ -1,4 +1,4 @@
-# ThinkBridgeAssignmentINTRODUCTION 
+# ThinkBridgeAssignment
 ---------------
 The workflow for signup  from :http://jt-dev.azurewebsites.net/#SignUp has been automated based on the instructions provided.
 
