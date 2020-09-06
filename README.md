@@ -14,6 +14,7 @@ INSTRUCTIONS
 6. Click Finish.
 
 //To add the JAR files if not added:
+
 7. Right click on the Project directory in the Package Explorer pane. 
 8. Click on Properties. The Properties dialog box pops up.
 9. Select Java Build Path from the left pane.
@@ -24,10 +25,12 @@ INSTRUCTIONS
 14. Click on the Apply and Close button.
 
 //To run the project:
+
 15. Right Click on the Automation_Assignment.java file from the Package Explorer and click on Run as > Java Application.
 16. The automation process will begin with Chrome as default web browser.
 
 //To change the input data (Name, Organisation name and email address):
+
 17. Go to the extracted project folder > src > TestData
 18. Open the Data excel file.
 19. Enter the required Name, Organisation name and email address in the excel.
@@ -35,6 +38,7 @@ INSTRUCTIONS
 
 
 //To change the web browser:
+
 21. Go to the extracted project folder > src > TestData
 22. Open the Browser excel file.
 23. Choose the required Browser under the Browser_type drop down list. 
